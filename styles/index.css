@@ -72,9 +72,8 @@
 }
 .Ren{
     padding: 10px;
-    font-size: small;
+    font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: lightslategrey;
     color: black;
 }
 #footer{
@@ -85,6 +84,6 @@
     margin: 0px 90px 0px 90px;
 }
 .Re_Image{
-    width: auto;
+    width: 450px;
     height: auto;
 }

@@ -71,7 +71,7 @@ function Display(data){
     var box = document.createElement("div");
     box.className = "Ren"
     var Image = document.createElement("img");
-    Image.setAttribute("src",el.ImageUrl)
+    Image.setAttribute("src","https://media.istockphoto.com/id/1461348370/photo/processor-unit-chip-war-the-chip-crisis-the-worlds-big-problem-china-and-usa-flag.jpg?b=1&s=170667a&w=0&k=20&c=7OIF-kaB2_EcUC7PVB38PVPpGNh3M3ZDaHK1RM1qbwc=")
     
     Image.className = "Re_Image"
 
